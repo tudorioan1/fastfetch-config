@@ -11,7 +11,7 @@ Before using this configuration, ensure you have Fastfetch installed.
   <summary>Arch Linux</summary>
 
 ```bash
-sudo pacman -S fastfetch
+sudo pacman -Sy fastfetch
 ```
 </details>
 
