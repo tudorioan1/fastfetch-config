@@ -1,6 +1,7 @@
 # fastfetch-config
 This repository contains my custom Fastfetch configuration, designed to personalize and enhance the terminal experience. It provides a tailored system information layout with a clean, visually appealing setup for Fastfetch.
-<img width="1196" height="756" alt="image" src="https://github.com/user-attachments/assets/6a89bd7f-209d-46cb-a59c-caffa5f33917" />
+<img width="1202" height="774" alt="image" src="https://github.com/user-attachments/assets/a300ed7a-9888-4bd8-b55a-de04929eedc3" />
+
 
 
 <p> <strong> Install Dependencies </strong> </p>
